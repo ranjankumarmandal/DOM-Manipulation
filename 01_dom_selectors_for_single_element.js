@@ -1,5 +1,5 @@
 // document.getElementById()
-/*
+
 console.log(document.getElementById('task-title'));
 
 // get things from the element
@@ -21,7 +21,7 @@ taskTitle.innerHTML = `<span style='color:red'>
                          Task Lists
                        </span>`;                    // insert html
 
-*/
+//--------------------------------------------------------------------------------------
 
 
 // document.querySelector() - this is newer and much powerfull, we can select an element by anything or by any cssSelector, than document.geElementById()
