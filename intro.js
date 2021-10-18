@@ -1,7 +1,9 @@
 // document object is inside window object, and is used for DOM Manipulation in JavaScript
+// window is global object in client side javascript, we can write this keyword or not, but this will still work
 
 let val;
 
+val = window.document;
 val = document;
 val = document.all;
 val = document.all[2];
