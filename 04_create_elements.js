@@ -1,3 +1,9 @@
+/* 
+Steps -
+1. Create Element - document.createElement()
+2. Append this to parent Element  - parentElement.appendChild(createdElement)
+*/
+
 // create element
 const li = document.createElement('li');
 
